@@ -1,0 +1,5 @@
+ <app-header-novo></app-header-novo>
+ <app-sidebar-novo (collapsedEvent)="receiveCollapsed($event)"></app-sidebar-novo>
+<section class="main-container" [ngClass]="{collapsed: collapedSideBar}">
+    <router-outlet></router-outlet>
+</section>

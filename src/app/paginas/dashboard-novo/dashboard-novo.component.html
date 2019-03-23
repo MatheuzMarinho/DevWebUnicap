@@ -1,0 +1,43 @@
+<div [@routerTransition]>
+  <h2 class="text-muted">Dashboard </h2>
+
+  <div class="row">
+    <div class="col-xl-3 col-lg-6">
+        <app-card [bgClass]="'primary'" [icon]="'fa-comments'" [count]="26" [label]="'Inovações!'" ></app-card>
+    </div>
+    <div class="col-xl-3 col-lg-6">
+        <app-card [bgClass]="'warning'" [icon]="'fa-tasks'" [count]="12" [label]="'Futuros Inovadores!'" ></app-card>
+    </div>
+    <div class="col-xl-3 col-lg-6">
+        <app-card [bgClass]="'success'" [icon]="'fa-shopping-cart'" [count]="124" [label]="'Carrinho da Inovação!'" ></app-card>
+    </div>
+    <div class="col-xl-3 col-lg-6">
+        <app-card [bgClass]="'danger'" [icon]="'fa-support'" [count]="13" [label]="'Inovações Perigosas!'"></app-card>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="row">
+        <div class="col-lg-6">
+                <div class="card card-default">
+                    <div class="card-header">
+                        <i class="fa fa-clock-o fa-fw"></i> Coisas Inovadoras 1
+                    </div>
+                    <div class="card-body">
+
+                    </div>
+                </div>
+        </div>
+        <div class="col-lg-6">
+                <div class="card card-default">
+                    <div class="card-header">
+                        <i class="fa fa-clock-o fa-fw"></i> Coisas Inovadoras 2
+                    </div>
+                    <div class="card-body">
+                        
+                    </div>
+                </div>
+        </div>
+  </div>
+</div>

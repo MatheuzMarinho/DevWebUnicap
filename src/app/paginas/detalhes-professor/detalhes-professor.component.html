@@ -1,0 +1,45 @@
+<div [@routerTransition]>
+    <div class="row" style="margin-bottom: 15px">
+
+        <div class="col-lg-4">
+            <div class="card">
+                <img src="assets/images/person-male.png" alt="Avatar" height="250" width="100%">
+                <div class="container">
+                    <h4><b>{{professor.nome}}</b></h4>
+                    <p>Matricula: {{professor.matricula}}</p>
+                    <p>Email: {{professor.email}}</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-8" style="    text-align: -webkit-right;">
+            <img src="assets/images/unicap.png" height="150">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card card-default">
+                <div class="card-header">
+                    <i class="fa fa-clock-o fa-fw"></i> Disciplinas
+                </div>
+                <div class="card-body table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Código</th>
+                                <th>Descrição</th>
+                                <th>Créditos</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let disciplina of professor.disciplinas">
+                                <td>{{disciplina.codigo}}</td>
+                                <td>{{disciplina.descricao}}</td>
+                                <td>{{disciplina.creditos}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
