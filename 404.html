@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <title>InovAI</title>
-  <base href="/DevWebUnicap/">
+  <base href="/DevWebUnicap/">  <link rel="canonical" href="https://matheuzmarinho.github.io/DevWebUnicap/" />
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="manifest" href="manifest.webmanifest">
@@ -17,6 +18,14 @@
                 <div class="bounce3"></div>
             </div>
   </app-root>
+  <script>
+    // register ServiceWorker, remember to use absolute path!
+    if (navigator.serviceWorker) {
+      navigator.serviceWorker.register('/DevWebUnicap/sw.js', {scope: '/DevWebUnicap/'})
+    }
+    
+    // --- Application code here ---
+    </script>
   <noscript>Please enable JavaScript to continue using this application.</noscript>
 <script type="text/javascript" src="runtime.bc7c49d2e75f0164a8db.js"></script><script type="text/javascript" src="polyfills.09952e6118d37e441195.js"></script><script type="text/javascript" src="scripts.b5ea1a3cf9f89977f873.js"></script><script type="text/javascript" src="main.b574dbef9ac509a0be7e.js"></script></body>
 </html>
