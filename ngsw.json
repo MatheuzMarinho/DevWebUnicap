@@ -1,0 +1,127 @@
+{
+  "configVersion": 1,
+  "index": "/DevWebUnicap/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/DevWebUnicap/1.494d65ac6d8b7f32e02d.js",
+        "/DevWebUnicap/10.9095d623c1c036ec9a4c.js",
+        "/DevWebUnicap/11.d50cebd21cdfc80ba23e.js",
+        "/DevWebUnicap/12.0b28a71f6fdfad318893.js",
+        "/DevWebUnicap/13.adfc996cbb69902f0e19.js",
+        "/DevWebUnicap/14.07bbee651928e67c208e.js",
+        "/DevWebUnicap/15.03780a06ff314d9288ec.js",
+        "/DevWebUnicap/16.b0758b623cde66ee0169.js",
+        "/DevWebUnicap/3.90e4152162a627bd8b8d.js",
+        "/DevWebUnicap/7.d01506b07d6eb3841250.js",
+        "/DevWebUnicap/8.d25e263cd2ac1df5d9a5.js",
+        "/DevWebUnicap/9.5b98313183e1865b4ea5.js",
+        "/DevWebUnicap/common.943bc6535cddf2b8b0f6.js",
+        "/DevWebUnicap/favicon.ico",
+        "/DevWebUnicap/index.html",
+        "/DevWebUnicap/main.b574dbef9ac509a0be7e.js",
+        "/DevWebUnicap/polyfills.09952e6118d37e441195.js",
+        "/DevWebUnicap/runtime.bc7c49d2e75f0164a8db.js",
+        "/DevWebUnicap/scripts.b5ea1a3cf9f89977f873.js",
+        "/DevWebUnicap/styles.134ff0dfa17855f7e92f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/DevWebUnicap/assets/i18n/de.json",
+        "/DevWebUnicap/assets/i18n/en.json",
+        "/DevWebUnicap/assets/i18n/es.json",
+        "/DevWebUnicap/assets/i18n/fa.json",
+        "/DevWebUnicap/assets/i18n/fr.json",
+        "/DevWebUnicap/assets/i18n/it.json",
+        "/DevWebUnicap/assets/i18n/ur.json",
+        "/DevWebUnicap/assets/i18n/zh-CHS.json",
+        "/DevWebUnicap/assets/icons/icon-128x128.png",
+        "/DevWebUnicap/assets/icons/icon-144x144.png",
+        "/DevWebUnicap/assets/icons/icon-152x152.png",
+        "/DevWebUnicap/assets/icons/icon-192x192.png",
+        "/DevWebUnicap/assets/icons/icon-384x384.png",
+        "/DevWebUnicap/assets/icons/icon-512x512.png",
+        "/DevWebUnicap/assets/icons/icon-72x72.png",
+        "/DevWebUnicap/assets/icons/icon-96x96.png",
+        "/DevWebUnicap/assets/images/logo.png",
+        "/DevWebUnicap/assets/images/person-male.png",
+        "/DevWebUnicap/assets/images/slider1.jpg",
+        "/DevWebUnicap/assets/images/slider2.jpg",
+        "/DevWebUnicap/assets/images/slider3.jpg",
+        "/DevWebUnicap/assets/images/unicap.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/DevWebUnicap/1.494d65ac6d8b7f32e02d.js": "dd6a2667b3ff3c7b7aed0b233fd6903e9e486f72",
+    "/DevWebUnicap/10.9095d623c1c036ec9a4c.js": "9e8c1f60601b449a31580308248523a7ebc945d9",
+    "/DevWebUnicap/11.d50cebd21cdfc80ba23e.js": "c6877f4d5d03954746eadb4f2fd489d6c9faf1a5",
+    "/DevWebUnicap/12.0b28a71f6fdfad318893.js": "9999a144e6bed29d76dc4026851e75cce76213c5",
+    "/DevWebUnicap/13.adfc996cbb69902f0e19.js": "bfd6b5d62096d02144f9eab709b9e63b0daa0aec",
+    "/DevWebUnicap/14.07bbee651928e67c208e.js": "ec4c3080607e20325567a1c49b6c42eaabfa9d98",
+    "/DevWebUnicap/15.03780a06ff314d9288ec.js": "69299d9218daf1bad1067dcc2408f136c35ea867",
+    "/DevWebUnicap/16.b0758b623cde66ee0169.js": "0976c2b305d32accb73e20bfb0b578b4b1ff50ac",
+    "/DevWebUnicap/3.90e4152162a627bd8b8d.js": "eeca17440aed9e111f70370298e0f2f933995091",
+    "/DevWebUnicap/7.d01506b07d6eb3841250.js": "4d6784f68c16dfc9a7d75100c9c16a33a07b333e",
+    "/DevWebUnicap/8.d25e263cd2ac1df5d9a5.js": "18a8580f9e006006ea6c49c649b40d037afd7563",
+    "/DevWebUnicap/9.5b98313183e1865b4ea5.js": "552a718352ccdb0b71cbb37d541e506b0e2bfb73",
+    "/DevWebUnicap/assets/i18n/de.json": "0d10234845d4cdd5ad026fb49b1447a1824c0642",
+    "/DevWebUnicap/assets/i18n/en.json": "7e62ce7c812cfb231d655f4a1f67be7eb28a968e",
+    "/DevWebUnicap/assets/i18n/es.json": "044eeb349fd096c8a66bedcf2604b32308eaabf4",
+    "/DevWebUnicap/assets/i18n/fa.json": "07157fdfc7f8e9a14dd3540718e04003bd42389d",
+    "/DevWebUnicap/assets/i18n/fr.json": "3077a26f90c21f7122d6e1aa7a4ac749a3a576ee",
+    "/DevWebUnicap/assets/i18n/it.json": "1c01447fe8b2992fd767d6fae3355b7c67e952ea",
+    "/DevWebUnicap/assets/i18n/ur.json": "3e539964c353bedcdd5de032c5fca600d1c8c8f9",
+    "/DevWebUnicap/assets/i18n/zh-CHS.json": "81be008c4a7cd184ca7b2e40a81dac1e6d043e4e",
+    "/DevWebUnicap/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/DevWebUnicap/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/DevWebUnicap/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/DevWebUnicap/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/DevWebUnicap/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/DevWebUnicap/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/DevWebUnicap/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/DevWebUnicap/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/DevWebUnicap/assets/images/logo.png": "85ddebbb8bd316c1784e85cdda8dbeb6578d90cb",
+    "/DevWebUnicap/assets/images/person-male.png": "29f7c717f4543e9593888057dfd824015c0aa13e",
+    "/DevWebUnicap/assets/images/slider1.jpg": "7270aa6438456e96ed66f8f6b1422085eb202089",
+    "/DevWebUnicap/assets/images/slider2.jpg": "ab0756987eb265d3e090a1234235c09d1dc80a1a",
+    "/DevWebUnicap/assets/images/slider3.jpg": "63916c33f025021b36aceaf070ac229a4edf1340",
+    "/DevWebUnicap/assets/images/unicap.png": "1c797bee1b455b88005f4d92bd0a12859f4a5560",
+    "/DevWebUnicap/common.943bc6535cddf2b8b0f6.js": "ffc194892bd22a66eb1b29fc4ab1556ecd76fad1",
+    "/DevWebUnicap/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/DevWebUnicap/index.html": "ef96aecda19b0b85d897f0dac7457081b158f703",
+    "/DevWebUnicap/main.b574dbef9ac509a0be7e.js": "b77986de1415de22252bbe339965aa16a17fecba",
+    "/DevWebUnicap/polyfills.09952e6118d37e441195.js": "0c5e5ba4fb760a45ffb3bdf511c27227f1414d81",
+    "/DevWebUnicap/runtime.bc7c49d2e75f0164a8db.js": "dc1f18985ad66c0e2cdd77ad99b0c2ec17eef80c",
+    "/DevWebUnicap/scripts.b5ea1a3cf9f89977f873.js": "00525715d3a0cf86bb2d76a1076f1082bedd60f6",
+    "/DevWebUnicap/styles.134ff0dfa17855f7e92f.css": "765903732b5b099a455a1d7e829f3f77e46d8710"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}

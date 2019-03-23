@@ -309,6 +309,9 @@ MIT
 @angular/animations
 MIT
 
+@angular/service-worker
+MIT
+
 @angular/core
 MIT
 
